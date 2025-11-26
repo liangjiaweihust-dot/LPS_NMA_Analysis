@@ -1,0 +1,15 @@
+Apo前6个Eigenvalues:
+Mode 1: 0.172283
+Mode 2: 0.280410
+Mode 3: 0.483085
+Mode 4: 0.593250
+Mode 5: 0.622934
+Mode 6: 1.206184
+
+Complex前6个Eigenvalues:
+Mode 1: 0.445373
+Mode 2: 0.617239
+Mode 3: 0.930164
+Mode 4: 1.301394
+Mode 5: 2.067140
+Mode 6: 2.133818
