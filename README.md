@@ -38,7 +38,7 @@ A comprehensive computational tool for analyzing protein-lipopolysaccharide (LPS
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/LPS_NMA_Analysis.git
+git clone https://github.com/liangjiaweihust-dot/LPS_NMA_Analysis.git
 cd LPS_NMA_Analysis
 
 # Create conda environment (recommended)
