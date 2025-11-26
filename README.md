@@ -349,19 +349,6 @@ Quantifies peptide-induced conformational restrictions through:
 - Reduced accessible conformational space
 - Energy barrier changes
 
-## 📖 Citation
-
-If you use this tool in your research, please cite:
-
-```bibtex
-@software{lps_nma_analysis,
-  title={LPS-Protein Normal Mode Analysis Tool},
-  author={Your Name and Collaborators},
-  year={2024},
-  url={https://github.com/yourusername/LPS_NMA_Analysis},
-  version={1.0.0}
-}
-```
 
 ## 📄 License
 
